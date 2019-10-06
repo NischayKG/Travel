@@ -1,2 +1,2 @@
-This is to be pushed using push command
+This is to be pushed/pulled using push/pull command
 Now this line i have added here in github
